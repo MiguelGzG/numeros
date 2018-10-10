@@ -1,0 +1,7 @@
+{
+  "name": "adivinaNumero",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
